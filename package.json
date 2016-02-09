@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzz",
+  "version": "0.0.1",
+  "description": "FizzBuzz Application Test",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edibleapplicant/FizzBuzz.git"
+  },
+  "author": "Stone C. Lasley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edibleapplicant/FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/edibleapplicant/FizzBuzz#readme"
+}
